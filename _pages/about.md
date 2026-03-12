@@ -17,25 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year post-graduate Student at the School of Data Science and Engineering, East China Normal University, under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING (graPh mining and LANguage processING) lab.
+I am currently a senior undergraduate student at the School of Data Science and Engineering, East China Normal University, working under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING (graPh mining and LANguage processING) Lab.
 
-My research interests include:
-- **Large Language Models**: applications in GraphRAG, toxicity detection, and detoxification.
-- **Reinforcement Learning**: applications in agent related research, especially search agent and memory management.
+My research interests lie in:
+- **Large Language Models**: applications in information retrieval.
+- **Reinforcement Learning**: applications in agent research, especially search agents and memory management.
 
 ★★★ Feel free to reach out to me for academic discussions and collaborations!
 
 <span class='anchor' id='publications'></span>
 
-# 🔥 News
+<!---# 🔥 News
 - *2025.11* 🎉🎉 Our work is Accepted by AAAI 2026, see you in Singapore!
 - *2025.08* 🔥🔥 A new work on Text Detoxification has been accepted by EMNLP 2025 main conference! See you in Suzhou, China!
-- *2025.07* 🔥🔥 E$^2$GraphRAG has received 100 stars on [GitHub](https://github.com/YiboZhao624/E-2GraphRAG)!
+- *2025.07* 🔥🔥 E$^2$GraphRAG has received 100 stars on [GitHub](https://github.com/YiboZhao624/E-2GraphRAG)!-->
 {% include_relative includes/pub.md %}
 
-# 📖 Educations
-- *2024.09 - now*, Post-graduate student, Data Science and Engineering, East China Normal University  <img src='./images/logos/ecnu.png' style='width: 2.3em;'>
-- *2020.09 - 2024.06*, Undergraduate, School of Communication, East China Normal University.  <img src='./images/logos/ecnu.png' style='width: 2.3em;'>
+# 📖 Education
+- *2026.09 - 2027.10*, M.Sc. Student in Computer Science, The Chinese University of Hong Kong  <img src='./images/logos/cuhk.jpeg' style='width: 2.3em;'>
+- *2022.09 - 2026.06*, Undergraduate Student in Data Science and Engineering, East China Normal University  <img src='./images/logos/ecnu.png' style='width: 2.3em;'>
 
 
 <!-- # 💬 Invited Talks
@@ -44,4 +44,4 @@ My research interests include:
 
 
 # 💻 Internships
-- *2025.12 - now* GUI Agent Intern, Computer Using Agent Group, AI Lab <img src='./images/logos/AILAB.png' style='width: 3em;'>, Shanghai, China.
+- *2025.9 - now* Research Assistant, PLANING Lab, Shanghai, China.
