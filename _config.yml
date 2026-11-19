@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weicong Liu"
   avatar           : "images/photo.jpg"
-  bio              : "Undergraduate Student, East China Normal University"
-  location         : "Shanghai, China"
+  bio              : "Postgraduate Student, The Chinese University of Hong Kong"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=gaDH26EAAAAJ&hl=en"
-  email            : "gnociew@stu.ecnu.edu.cn"
+  email            : "1155264719@link.cuhk.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

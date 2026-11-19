@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a senior undergraduate student at the School of Data Science and Engineering, East China Normal University, working under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING (graPh mining and LANguage processING) Lab.
+I am currently pursuing a master's degree in Computer Science at The Chinese University of Hong Kong. Previously, I completed my undergraduate studies at the School of Data Science and Engineering, East China Normal University, where I worked under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING (graPh mining and LANguage processING) Lab.
 
 My research interests lie in:
 - **Large Language Models**: applications in information retrieval.
@@ -34,7 +34,7 @@ My research interests lie in:
 {% include_relative includes/pub.md %}
 
 # 📖 Education
-- *2026.09 - 2027.10*, M.Sc. Student in Computer Science, The Chinese University of Hong Kong  <img src='./images/logos/cuhk.jpeg' style='width: 2.3em;'>
+- *2026.09 - 2027.11*, M.Sc. Student in Computer Science, The Chinese University of Hong Kong  <img src='./images/logos/cuhk.jpeg' style='width: 2.3em;'>
 - *2022.09 - 2026.06*, Undergraduate Student in Data Science and Engineering, East China Normal University  <img src='./images/logos/ecnu.png' style='width: 2.3em;'>
 
 
@@ -44,4 +44,4 @@ My research interests lie in:
 
 
 # 💻 Internships
-- *2025.9 - now* Research Assistant, PLANING Lab, Shanghai, China.
+- *2025.9 - 2026.6* Research Assistant, PLANING Lab, Shanghai, China.
